@@ -1,0 +1,6 @@
+framework module FQ_MineSettingCell {
+  umbrella header "FQ_MineSettingCell.h"
+
+  export *
+  module * { export * }
+}
