@@ -17,6 +17,7 @@
 		B969C00C1D43B118002EFAC7 /* CeShiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B969C00B1D43B118002EFAC7 /* CeShiViewController.m */; };
 		B969C04C1D43B42F002EFAC7 /* FQ_MineSettingCell.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B969C04B1D43B42F002EFAC7 /* FQ_MineSettingCell.framework */; };
 		B969C04E1D43B4E0002EFAC7 /* 004.png in Resources */ = {isa = PBXBuildFile; fileRef = B969C04D1D43B4E0002EFAC7 /* 004.png */; };
+		B97A06501D4443D40041DA46 /* icon_arrow_next~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = B97A064F1D4443D40041DA46 /* icon_arrow_next~iphone.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		B969C00B1D43B118002EFAC7 /* CeShiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CeShiViewController.m; sourceTree = "<group>"; };
 		B969C04B1D43B42F002EFAC7 /* FQ_MineSettingCell.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FQ_MineSettingCell.framework; sourceTree = "<group>"; };
 		B969C04D1D43B4E0002EFAC7 /* 004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 004.png; sourceTree = "<group>"; };
+		B97A064F1D4443D40041DA46 /* icon_arrow_next~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_arrow_next~iphone.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			children = (
 				B969BFF21D43B002002EFAC7 /* AppDelegate.h */,
 				B969BFF31D43B002002EFAC7 /* AppDelegate.m */,
+				B97A064F1D4443D40041DA46 /* icon_arrow_next~iphone.png */,
 				B969BFF51D43B002002EFAC7 /* ViewController.h */,
 				B969BFF61D43B002002EFAC7 /* ViewController.m */,
 				B969C00A1D43B118002EFAC7 /* CeShiViewController.h */,
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B969BFFF1D43B002002EFAC7 /* LaunchScreen.storyboard in Resources */,
+				B97A06501D4443D40041DA46 /* icon_arrow_next~iphone.png in Resources */,
 				B969C04E1D43B4E0002EFAC7 /* 004.png in Resources */,
 				B969C0091D43B0DC002EFAC7 /* zhou.jpg in Resources */,
 				B969BFFC1D43B002002EFAC7 /* Assets.xcassets in Resources */,
@@ -329,6 +333,7 @@
 				B969C0051D43B002002EFAC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
